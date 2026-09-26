@@ -57,7 +57,7 @@ Entry-level Data Analyst with hands-on project experience in Power BI, Excel, an
 
 - **Sales Dashboard – ShopNest E-Commerce Analytics**
 
-**Code:** [ShopNest Dashboard.pbix](https://github.com/sampreethpreetu)
+**Code:** [ShopNest Dashboard.pbix](https://drive.google.com/file/d/1x75aOEJQBpli0mqDnrWitISSNkb-K54k/view?usp=sharing)
 
 **Goal:** To analyze e-commerce order, delivery, and payment performance and identify which product categories, payment methods, and operational factors drive revenue and customer satisfaction.
 
